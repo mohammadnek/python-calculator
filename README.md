@@ -52,7 +52,7 @@ python3 --version
 ### 2. Download or clone the project
 
 ```bash
-git clone https://github.com/USERNAME/python-calculator.git
+git clone https://github.com/mohammadnek/python-calculator.git
 cd python-calculator
 ```
 
